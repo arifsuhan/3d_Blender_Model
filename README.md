@@ -2,5 +2,5 @@
 
 practise:
 
-1. bevel and convert mesh from curse
+1. bevel and convert mesh from curve
 2. join and separate mesh
