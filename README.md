@@ -1,9 +1,17 @@
 # All Blender Raw Modeling Files
 
-practise:
+<h2>Practise:</h2>
+<table>
+	<tr>
+		<td> 1 </td>
+		<td> Bevel And Convert Mesh From Curve </td>
+	</tr>
+	<tr>
+		<td> 2 </td>
+		<td>Join And Separate Mesh</td>
+	</tr>
+</table>
 
-1. bevel and convert mesh from curve
-2. join and separate mesh
 
 <br> 
 <h2>keyboard shortcut:</h2>
