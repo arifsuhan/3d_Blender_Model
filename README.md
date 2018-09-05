@@ -5,7 +5,8 @@ practise:
 1. bevel and convert mesh from curve
 2. join and separate mesh
 
-<br> keyboard shortcut:
+<br> 
+<h2>keyboard shortcut:</h2>
 <table>
   <tr>
 	  <th> No </th>
