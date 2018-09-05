@@ -6,7 +6,7 @@ practise:
 2. join and separate mesh
 
 <br> keyboard shortcut:
-<br> ctrl+I = inverse select 
-<br> H = hide
-<br> alt+H = reverse hide 
-<br> F = fill 
+1. ctrl+I = inverse select 
+2. H = hide
+3. alt+H = reverse hide 
+4. F = fill 
