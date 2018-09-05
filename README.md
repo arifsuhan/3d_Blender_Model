@@ -7,7 +7,7 @@ practise:
 
 
 keyboard shortcut:
-ctrl+I = inverse select
+ctrl+I = inverse select <br>
 H = hide
 alt+H = reverse hide
 F = fill 
