@@ -51,5 +51,17 @@
   	<td> Remove Dark Edge </td>
   	<td> Ctrl + N </td>
   </tr>
+  
+ <tr>
+  	<td> 6 </td>
+  	<td> Vertex Merge </td>
+  	<td> Alt+M </td>
+  </tr>
+  
+   <tr>
+  	<td> 7 </td>
+  	<td> Bridge Edge Loops</td>
+  	<td> Ctrl + E </td>
+  </tr>
 
 </table>
