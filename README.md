@@ -66,8 +66,8 @@
   
  <tr>
   	<td> 8 </td>
-  	<td> Select 1st mesh,then bone</td>
-  	<td> press Ctrl + P </td>
+  	<td> Body Rigging</td>
+  	<td> Select 1st mesh,then bone <br> press Ctrl + P </td>
   </tr>
 
 </table>
