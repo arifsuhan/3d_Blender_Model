@@ -10,6 +10,22 @@
 		<td> 2 </td>
 		<td>Join And Separate Mesh</td>
 	</tr>
+	<tr>
+		<td> 3 </td>
+		<td> Cut a particular part of mesh </td>
+	</tr>
+	<tr>
+		<td> 4 </td>
+		<td> Know Particles </td>
+	</tr>	
+	<tr>
+		<td> 5 </td>
+		<td> Sculpting Brushes </td>
+	</tr>
+	<tr>
+		<td> 6 </td>
+		<td> Texture Paint </td>
+	</tr>
 </table>
 
 
