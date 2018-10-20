@@ -69,5 +69,10 @@
   	<td> Body Rigging</td>
   	<td> Select 1st mesh,then bone <br> press Ctrl + P </td>
   </tr>
+   <tr>
+  	<td> 9 </td>
+  	<td> Skin modifier </td>
+  	<td> Ctrl + A </td>
+  </tr>
 
 </table>
