@@ -90,5 +90,14 @@
   	<td> Skin modifier </td>
   	<td> Ctrl + A </td>
   </tr>
-
+   <tr>
+  	<td> 10 </td>
+  	<td> Hide </td>
+  	<td> H </td>
+  </tr>
+     <tr>
+  	<td> 11 </td>
+  	<td> Undo Hide </td>
+  	<td> Ctrl+H </td>
+  </tr>
 </table>
