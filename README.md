@@ -92,12 +92,7 @@
   </tr>
    <tr>
   	<td> 10 </td>
-  	<td> Hide </td>
-  	<td> H </td>
-  </tr>
-     <tr>
-  	<td> 11 </td>
-  	<td> Undo Hide </td>
-  	<td> Ctrl+H </td>
+  	<td> Select Particular Mesh </td>
+  	<td> Ctrl+L </td>
   </tr>
 </table>
