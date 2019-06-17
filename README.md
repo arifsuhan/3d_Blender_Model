@@ -95,4 +95,9 @@
   	<td> Select Particular Mesh </td>
   	<td> Ctrl+L </td>
   </tr>
+     <tr>
+  	<td> 11 </td>
+  	<td> Seperate Mesh </td>
+  	<td> P </td>
+  </tr>
 </table>
