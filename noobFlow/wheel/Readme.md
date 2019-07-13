@@ -1,2 +1,9 @@
 1. setup bone
-2. Clrt + N and set positive : Global +Z axis
+2. Ctrl + N and set positive : Global +Z axis
+3. Ctrl + P and set offset
+
+
+
+
+help:
+alt + p - clear offset
